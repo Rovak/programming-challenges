@@ -1,7 +1,9 @@
+package codechef
+
 /**
  * http://www.codechef.com/problems/HS08TEST
  */
-object Main {
+object Atm {
   def main(args: Array[String]) {
     val input = readLine.split(" ")
     val w = input(0).toInt

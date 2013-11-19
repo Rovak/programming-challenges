@@ -1,4 +1,6 @@
-object Main {
+package codechef
+
+object EnormousInputTest {
   def main(args: Array[String]) {
     val input = readLine.split(" ")
     val n = input(0).toInt
